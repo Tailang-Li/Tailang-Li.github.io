@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on welcome</title>
-        <link>https://tailang-li.github.io/posts.html</link>
+        <link>https://tailang-li.github.io/posts/</link>
         <description>Recent content in Posts on welcome</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
@@ -11,10 +11,10 @@
         
         <item>
             <title>The First Post</title>
-            <link>https://tailang-li.github.io/posts/2021/01/the-first-post.html</link>
+            <link>https://tailang-li.github.io/posts/2021/01/the-first-post/</link>
             <pubDate>Fri, 22 Jan 2021 22:16:05 +0800</pubDate>
             
-            <guid>https://tailang-li.github.io/posts/2021/01/the-first-post.html</guid>
+            <guid>https://tailang-li.github.io/posts/2021/01/the-first-post/</guid>
             <description>go func(){}()</description>
             <content type="html"><![CDATA[<p>go func(){}()</p>
 ]]></content>

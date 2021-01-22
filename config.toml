@@ -1,6 +1,4 @@
 baseURL = "https://tailang-li.github.io/"
-relativeURLs = true
-uglyURLs = true
 title   = "welcome"
 languageCode = "en-us"
 theme = "hello-friend-ng"

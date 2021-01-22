@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tailang-li.github.io/posts.html</loc>
+    <loc>https://tailang-li.github.io/posts/</loc>
     <lastmod>2021-01-22T22:16:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tailang-li.github.io/posts/2021/01/the-first-post.html</loc>
+    <loc>https://tailang-li.github.io/posts/2021/01/the-first-post/</loc>
     <lastmod>2021-01-22T22:16:05+08:00</lastmod>
   </url>
   
@@ -28,44 +28,44 @@
   </url>
   
   <url>
-    <loc>https://tailang-li.github.io/categories.html</loc>
+    <loc>https://tailang-li.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tailang-li.github.io/fr/categories.html"
+                href="https://tailang-li.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tailang-li.github.io/categories.html"
+                href="https://tailang-li.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://tailang-li.github.io/series.html</loc>
+    <loc>https://tailang-li.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tailang-li.github.io/fr/series.html"
+                href="https://tailang-li.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tailang-li.github.io/series.html"
+                href="https://tailang-li.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>https://tailang-li.github.io/tags.html</loc>
+    <loc>https://tailang-li.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tailang-li.github.io/fr/tags.html"
+                href="https://tailang-li.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tailang-li.github.io/tags.html"
+                href="https://tailang-li.github.io/tags/"
                 />
   </url>
   
