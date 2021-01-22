@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tailang-li.github.io/posts.html</loc>
+    <lastmod>2021-01-22T22:16:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tailang-li.github.io/posts/2021/01/the-first-post.html</loc>
+    <lastmod>2021-01-22T22:16:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tailang-li.github.io/</loc>
+    <lastmod>2021-01-22T22:16:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tailang-li.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tailang-li.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tailang-li.github.io/categories.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tailang-li.github.io/fr/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tailang-li.github.io/categories.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tailang-li.github.io/series.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tailang-li.github.io/fr/series.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tailang-li.github.io/series.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tailang-li.github.io/tags.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://tailang-li.github.io/fr/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tailang-li.github.io/tags.html"
+                />
+  </url>
+  
+</urlset>
